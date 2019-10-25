@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
+string
+-
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/main.cpp
+iostream
+-
+base.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
+mult.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/mult.hpp
+op.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/op.hpp
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/mult.hpp
+base.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/op.hpp
+base.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
+
