@@ -19,7 +19,6 @@ int main() {
     Base* mult = new Mult(seven, four);
     Base* add = new Add(three, mult);
     Base* minus = new Sub(add, two);
-
     std::cout << minus->stringify() << " = " << minus->evaluate() << std::endl;
     return 0;
 }
