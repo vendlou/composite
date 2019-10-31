@@ -6,9 +6,33 @@
 
 #IncludeRegexTransform: 
 
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/add.hpp
+base.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/add_test.hpp
+gtest/gtest.h
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/gtest/gtest.h
+op.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/op.hpp
+add.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/add.hpp
+
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
 string
 -
+stdio.h
+-
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/div.hpp
+base.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/div_test.hpp
+gtest/gtest.h
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/gtest/gtest.h
+div.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/div.hpp
 
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/mult.hpp
 base.hpp
@@ -32,6 +56,30 @@ gtest/gtest.h
 op.hpp
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/op.hpp
 
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/pow.hpp
+base.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/pow_test.hpp
+gtest/gtest.h
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/gtest/gtest.h
+op.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/op.hpp
+pow.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/pow.hpp
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/sub.hpp
+base.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/sub_test.hpp
+gtest/gtest.h
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/gtest/gtest.h
+op.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/op.hpp
+sub.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/sub.hpp
+
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/unit_test.cpp
 gtest/gtest.h
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/gtest/gtest.h
@@ -39,6 +87,14 @@ op_test.hpp
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/op_test.hpp
 mult_test.hpp
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/mult_test.hpp
+add_test.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/add_test.hpp
+pow_test.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/pow_test.hpp
+sub_test.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/sub_test.hpp
+div_test.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/div_test.hpp
 
 googletest/googletest/include/gtest/gtest-death-test.h
 gtest/internal/gtest-death-test-internal.h

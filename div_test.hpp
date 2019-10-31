@@ -3,7 +3,7 @@
 
 #include "gtest/gtest.h"
 
-#include "op.hpp"
+#include "div.hpp"
 
 TEST(DivTest, DivTest1) {
     Op* op1 = new Op(8); 

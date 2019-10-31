@@ -6,25 +6,51 @@
 
 #IncludeRegexTransform: 
 
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/add.hpp
+base.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
+
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
 string
 -
+stdio.h
+-
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/div.hpp
+base.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
 
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/main.cpp
 iostream
 -
 base.hpp
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
-mult.hpp
-/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/mult.hpp
 op.hpp
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/op.hpp
+mult.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/mult.hpp
+pow.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/pow.hpp
+add.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/add.hpp
+div.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/div.hpp
+sub.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/sub.hpp
 
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/mult.hpp
 base.hpp
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
 
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/op.hpp
+base.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/pow.hpp
+base.hpp
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
+
+/home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/sub.hpp
 base.hpp
 /home/csmajs/wlou901/lab-04-composite-pattern-new_lab_4/base.hpp
 
